@@ -34,4 +34,4 @@ out/
 .vscode/
 
 ### custom ###
-bin
+bin/
